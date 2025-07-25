@@ -12,6 +12,8 @@ main {
 article {
   flex: 2;
   overflow-y: auto;
+  border-width: 20px;
+  border-color: rgb(251, 255, 0);
 }
 
 aside {
